@@ -1,4 +1,4 @@
-#Mines
+# Mines
 
 A well known game, now with a simple design
 
